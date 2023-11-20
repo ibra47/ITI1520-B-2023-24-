@@ -1,3 +1,4 @@
+#DIALLO Ibrahim 300326287
 #QUESTIONS 1 À 3
 
 #q1
